@@ -18,6 +18,6 @@ class losingw(calories):
         print("In order to lose weight you need to eat {} calories!".format(calories))
 
         
-obj = calories()
+obj = losingw()
 obj.maint(2000)
 obj.lose(2000)
