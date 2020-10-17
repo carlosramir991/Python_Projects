@@ -53,7 +53,7 @@ class makera():
 
         x.write(w)
 
-        url = 'file:///Users/slims/Documents/python_projects/' + 'autohtml.html'
+        url = "file:///Users/slims/Documents/python_projects/" + "autohtml.html"
                         
                         
         webbrowser.open_new_tab(url)
