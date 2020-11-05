@@ -18,5 +18,5 @@ class Transaction(models.Model):
 
     Transactions = models.Manager()
 
-    def __str__(self):
-        return self.first_name + ' ' + self.last_name
+def __str__(self):
+    return self.first_name + ' ' + self.last_name
