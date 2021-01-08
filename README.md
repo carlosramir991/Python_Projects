@@ -8,8 +8,7 @@ These are basic projects written in Python. They use various modules such as tki
   <ul>
   <li><b><a href = "https://github.com/carlosramir991/Python_Projects/blob/master/file_organizer.py"> Check Files Gui</a></b></li>
   <li><b><a href = "https://github.com/carlosramir991/Python_Projects/tree/master/PycharmProjects/pythonProject/venv/bin/Classes">Classes Maker Website</a></b></li>
-  <li><b><a href = " https://github.com/carlosramir991/C-Sharp-Projects/tree/main/PycharmProject
-">Artist Site</a></b></li>
+  <li><b><a href = " https://github.com/carlosramir991/C-Sharp-Projects/tree/main/PycharmProject">Artist Site</a></b></li>
 
   </ul>
   
