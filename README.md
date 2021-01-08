@@ -21,4 +21,8 @@ These are basic projects written in Python. They use various modules such as tki
  
  This project allows you to schedule, modify or delete from the classes listed on the website. It also allows for the administrator access so that one may add or delete users. 
  
+ <h1>Artist Site</h1>
+ 
+ I worked with a number of other developers during a two week sprint to create a site for Artists. This site includes a home page, an index page and a page to add art work. 
+ 
  
